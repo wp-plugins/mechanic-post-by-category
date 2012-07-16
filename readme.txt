@@ -43,8 +43,8 @@ Plug-in is now compatible upto wordpress version 3.4.
 
 == Credits ==
 
-[Aditya Subawa](http://www.adityasubawa.com/) - This plugin was created by Aditya Subawa. If you like this widget and would like to donate to help support new versions of this widget you can do so at the <a href="http://www.adityawebs.com">support center</a> website.
+[Aditya Subawa](http://www.adityawebs.com/) - This plugin was created by Aditya Subawa. If you like this widget and would like to donate to help support new versions of this widget you can do so at the <a href="http://www.adityawebs.com">support center</a> website.
 
 == Contact ==
 
-If you need help, support or would just like to provide your comments and suggestions you may visit us online at <a href="http://www.adityawebs.com">our website</a> support center.
+If you need help, support or would just like to provide your comments and suggestions you may visit us online at <a href="http://balimechanicweb.net">our website</a> or <a href="http://www.adityawebs.com">my personal website</a> support center.
