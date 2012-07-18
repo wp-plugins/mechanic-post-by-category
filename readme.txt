@@ -1,6 +1,6 @@
 === Mechanic Post by Category ===
 
-Contributors: Aditya Subawa
+Contributors: adityasubawa
 Donate link: http://www.adityawebs.com
 Tags: post by category, summary post, summary post category, article post category
 Requires at least: 3.0.1
